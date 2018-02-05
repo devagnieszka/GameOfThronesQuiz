@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Game of Thrones Quiz</string>
+
+    <string name="question_one">1.  Which house\'s words are \"Family, Duty, Honor\"?</string>
+    <string name="question_two">2. Which house\'s sigil is this?</string>
+    <string name="question_three"> 3. Which house rules Winterfell?</string>
+    <string name="question_four">4. Which words can be said by the man called Kingslayer?</string>
+    <string name="question_five">5.Which house\'s sigil is this?</string>
+    <string name="question_six">6.Which of those men could said \"Our Blades Are Sharp\"?</string>
+    <string name="question_seven">7.What are the words of House Tyrell?</string>
+    <string name="question_eight">8.What are the words of House, whose sigil is this?</string>
+
+    <string name="tully">House Tully</string>
+    <string name="tyrell">House Tyrell</string>
+    <string name="martell">House Martell</string>
+    <string name="targaryen">House Targaryen</string>
+    <string name="arryn">House Arryn</string>
+    <string name="bolton">House Bolton</string>
+    <string name="greyjoy">House Greyjoy</string>
+
+    <string name="qoute_lannister">\"A Lannister always pays his debts\"</string>
+    <string name="qoute_hear">\"Hear Me Roar\"</string>
+    <string name="qoute_ours">\"Ours is the Fury\"</string>
+    <string name="qoute_growing">\"Growing Strong\"</string>
+    <string name="qoute_unbowed">\"Unbowed, Unbent, Unbroken\"</string>
+    <string name="qoute_fire">\"Fire and Blood\"</string>
+    <string name="qoute_winter">\"Winter is Coming\"</string>
+    <string name="qoute_high">\"As High as Honor\"</string>
+    <string name="qoute_sun">\"The Sun of Winter\"</string>
+
+    <string name="roose"> Roose Bolton</string>
+    <string name="walder">Walder Frey</string>
+    <string name="sandor">Sandor Clegane</string>
+
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="name">What\'s your name?</string>
+    <string name="start">START QUIZ</string>
+    <string name="stranger">Stranger</string>
+
+</resources>
