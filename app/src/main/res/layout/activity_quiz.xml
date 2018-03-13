@@ -9,7 +9,6 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#D7CCC8"
         android:orientation="vertical">
 
         <ImageView
@@ -109,7 +108,7 @@
         <EditText
             android:id="@+id/edit"
             android:layout_height="wrap_content"
-            android:paddingLeft="20dp"
+            android:layout_margin="20dp"
             android:layout_width="match_parent"
             android:inputType="text"/>
 
@@ -310,15 +309,19 @@
                 android:id="@+id/buttonSubmit"
                 android:layout_width="0dp"
                 android:layout_margin="20dp"
+                android:background="#A1887F"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="Submit"
+                android:textColor="#ffffff"
                 android:text="@string/submit" />
 
             <Button
                 android:id="@+id/buttonBack"
                 android:layout_width="0dp"
                 android:layout_margin="20dp"
+                android:background="#A1887F"
+                android:textColor="#ffffff"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="@string/back" />
